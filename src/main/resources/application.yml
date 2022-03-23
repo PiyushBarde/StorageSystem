@@ -1,0 +1,16 @@
+cloud:
+  aws:
+    credentials:
+      access-key: AKIAQBMNXBVHP6AQOL6Y
+      secret-key: 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
+    region:
+      static: us-east-1
+    stack:
+      auto: false
+
+application:
+  bucket:
+    name: myfirstuser
+
+server:
+  port: 9090
